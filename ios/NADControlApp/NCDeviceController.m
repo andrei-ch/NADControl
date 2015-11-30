@@ -74,7 +74,7 @@ static char *local_arduino_hostname()
 		return NULL;
 	}
 	
-	ret = sendto(sd, @"NADC", 4, 0, (struct sockaddr*)&bcast_in, sizeof(bcast_in));
+	ret = sendto(sd, "NADC", 4, 0, (struct sockaddr*)&bcast_in, sizeof(bcast_in));
 	if (ret < 0)
 	{
 		close(sd);
