@@ -9,7 +9,7 @@ Screenshots
 
 <img src="/docs/iphone.png" alt="iPhone screenshot" height="600">
 
-<img src="/docs/ipad-pro.png" alt="iPad Pro split mode screenshot" height="600">
+<img src="/docs/ipad-pro.png" alt="iPad Pro split mode screenshot" width="600" height="450">
 
 
 Acknowledgements
